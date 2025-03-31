@@ -21,3 +21,10 @@ This analysis leveraged the following skills and tools:
 **A/B Testing** - Comparing multiple versions of the button to determine the most effective design.  
 **Chi-Square Testing** - Using statistical methods to measure the significance of differences in conversion rates.  
 
+
+
+## Access the Code
+To explore the code and analysis, click the link below:
+
+[Google Colab Notebook](https://colab.research.google.com/drive/18ZIT97SYOWHchsFsB-612c-RAzReGyqg?usp=sharing)
+
